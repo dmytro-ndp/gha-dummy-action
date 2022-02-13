@@ -1,0 +1,8 @@
+name: 'print args'
+description: 'dummy action which prints arguments'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'box'
+  color: 'red'
